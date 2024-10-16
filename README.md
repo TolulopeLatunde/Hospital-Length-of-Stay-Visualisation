@@ -1,4 +1,4 @@
-# Hospital-Length-of-Stay-Visualisation
+# Hospital-Length-of-Stay-Visualisation-Tableau
 
 **Overview**
 This repository contains Tableau visualizations that analyze and display the analysis of the predicted length of stay for patients admitted to a hospital (100,000 data points). The visualizations aim to provide insights into the accuracy of predictions and the factors influencing patient stays.
